@@ -17,7 +17,7 @@ How to Run
 2. Open `index.html` in your browser
 
 Screenshots
-> *Add screenshots here using ![screenshot](path)*
+> screenshots/rps.png
 
 Future Enhancements
 - Add sound effects
